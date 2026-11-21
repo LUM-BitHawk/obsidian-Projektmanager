@@ -1,5 +1,7 @@
 # Obsidian-Agent
 
+**Deutsch** · [English](readme_en.md) · [Español](readme_es.md) · [Dokumentation](obsidian-agent-readme/docs/README.md)
+
 ### Dein Obsidian-Vault wird zum Projekt-Cockpit nach HERMES und SAFe.
 
 `Windows` · `macOS` · `Linux` · `Python 3.9+` · `läuft lokal auf 127.0.0.1` · `6 Sprachen`
@@ -106,6 +108,8 @@ Dataview und Co. sind grossartig, und der Agent nutzt sie mit. Aber manches kön
 
 ## In 5 Minuten startklar
 
+![Setup-Assistent](obsidian-agent-readme/docs/screenshots/Setup-Assistent_Vorschau.png)
+
 ### Windows
 
 1. `Obsidian-Agent-Setup-2.0.0.exe` starten und die Sprache wählen
@@ -120,7 +124,7 @@ Dataview und Co. sind grossartig, und der Agent nutzt sie mit. Aber manches kön
 
 Die Oberfläche läuft unter `http://127.0.0.1:5055` und startet nach jedem Neustart automatisch im Hintergrund.
 
-Ausführliche Anleitungen: [Deutsch](obsidian-agent-readme/docs/Anleitung_de.md) · [English](obsidian-agent-readme/docs/Guide_en.md) · [Français](obsidian-agent-readme/docs/Guide_fr.md) · [Italiano](obsidian-agent-readme/docs/Guida_it.md) · [Español](obsidian-agent-readme/docs/Guia_es.md) · [Română](obsidian-agent-readme/docs/Ghid_ro.md)
+Ausführliche Anleitungen und Kurzanleitung mit Bildern: [Dokumentation](obsidian-agent-readme/docs/README.md) · [Deutsch](obsidian-agent-readme/docs/Anleitung_de.md) · [English](obsidian-agent-readme/docs/Guide_en.md) · [Français](obsidian-agent-readme/docs/Guide_fr.md) · [Italiano](obsidian-agent-readme/docs/Guida_it.md) · [Español](obsidian-agent-readme/docs/Guia_es.md) · [Română](obsidian-agent-readme/docs/Ghid_ro.md)
 
 ---
 
